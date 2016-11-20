@@ -20,8 +20,8 @@
 ### 开发环境：
 微信web开发者工具 v0.10.102800
 
-### 源码地址：
-https://github.com/getweapp/weapp-v2ex
+### 项目截图：
+https://www.getweapp.com/project?projectId=58307c3e5d2529e140da1b2b
 
 ### 感谢:
 本项目原始版本由jectychen提供：https://github.com/jectychen/wechat-v2ex
